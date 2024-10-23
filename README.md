@@ -30,11 +30,11 @@ This project is a simple C# application that calculates the area of geometric sh
 - Square and Rectangle calculate the area as Width x Height.
 - Right Triangle calculates the area using the formula (Width x Height) / 2.
 
-#Technologies Used
+# Technologies Used
 - C#
 - .NET Framework
 
-#How to Run?
+# How to Run?
 - Download or clone the project to your local machine.
 - Open the project in Visual Studio or any C# IDE.
 - Run the project.
